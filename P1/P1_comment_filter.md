@@ -78,7 +78,7 @@ count = N mod 256
 ab/*xy*/cd
 ```
 
-![输入输出波形示例](assets/example-waveform.png)
+![输入输出波形示例](assets/comment_filter.png)
 
 处理过程如下：
 
