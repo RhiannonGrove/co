@@ -60,7 +60,7 @@
 
 ## 5 输入输出示例
 
-![输入输出波形示例](assets/example-waveform.png)
+![输入输出波形示例](assets/direction.png)
 
 波形对应的行为如下：
 
