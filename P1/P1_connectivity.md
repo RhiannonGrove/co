@@ -52,7 +52,7 @@
 
 下图中的接线柱编号均使用十进制表示。三个时间段分别对应三组独立输入，各组之间不累积连接关系。
 
-![输入输出波形示例](assets/example-waveform.png)
+![输入输出波形示例](assets/connectivity.png)
 
 ### 4.1 第一组
 
